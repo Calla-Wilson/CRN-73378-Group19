@@ -6,4 +6,4 @@ Code
 Design 
 Requirments
 Test Case 
-Used Case
+Use Case
